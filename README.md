@@ -1,4 +1,5 @@
 # node-red-contrib-usbhid
+_Note: Forked from robertslando to update node-hid version_
 
 A node-hid (USB HID device access library) wrapper for nodered
 
